@@ -1,0 +1,28 @@
+1 Accendo l'interruttore della luce del soggiorno
+2 La lampadina del soggiorno non risponde 
+3 mi dirigo all'uscita di casa per recarmi al negozio di luci più vicino
+4 sono uscito accendo google maps per vedere il negozio più vicino
+5 se google maps mi dice che il negozio è 
+6 vado in autobus e vedo a quale fermata scendere 
+7 devo scencdere alla terza fermata 
+8 scendo
+9 cammino per 200m 
+10 raggiungo il negozio
+11 entro in negozio 
+12 scelgo la lampadina a minore consumo se la lampadina spende meno di 20w allora la prendo
+13 presa la lampadina mi dirigo verso la cassa
+14 pago la lampadina 
+15 do i soldi al cassiere in base al prezzo richiesto se la lampadina viene 5 euro e gli do 10 euro allora il cassiere mi ritorna 5 euro di resto
+16 prendo il resto e la lampadina
+17 esco dal negozio 
+18 mi dirigo verso la fermata 
+19 aspetto l'arrivo dell'autobus
+20 l'autobus è arrivato
+21 ci salgo sopra
+22 dopo 3 fermate scendo dall'autobus 
+23 sceso dall'autobus mi dirigo verso l'entrata del palazzo
+24 salgo le scale 
+25 entro dentro casa
+26 prendo la lampadina e la sostituisco
+27 riaccendo l'interruttore della luce 
+28 se la luce funziona allora si accende altrimenti ritorno in negozio 
